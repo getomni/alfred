@@ -1,9 +1,22 @@
 ### [Alfred 4](https://alfredapp.com)
 
-#### Install
-
 _You need the [Powerpack](https://www.alfredapp.com/powerpack) for custom themes._
 
-1. Download the [GitHub .zip](https://github.com/demartini/alfred/archive/main.zip) and unzip it.
-2. Navigate to directory and double-click on `Omni.alfredappearance`.
-3. Confirm the import.
+#### Easy Install
+
+1. Download the latest version of [`Omni.alfredappearance`](https://github.com/demartini/alfred/releases/latest/download/Omni.alfredappearance).
+2. Double-click on `Omni.alfredappearance`.
+3. Click the `Import` button when prompted.
+
+#### Install using Git
+
+1. Clone the repo:
+```sh
+$ git clone https://github.com/demartini/alfred.git
+```
+2. Navigate to the cloned directory and double-click on `Omni.alfredappearance`.
+3. Click the `Import` button when prompted.
+
+#### Suggested usage
+
+Hide the Alfred hat icon in the input by going to  `Appearance > Options > Hide hat on Alfred window`.
