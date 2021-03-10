@@ -1,0 +1,64 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 10,
+      "subtext" : {
+        "size" : 11,
+        "colorSelected" : "#E1E1E6CC",
+        "font" : "System Light",
+        "color" : "#E1E1E666"
+      },
+      "shortcut" : {
+        "size" : 13,
+        "colorSelected" : "#78D1E1FF",
+        "font" : "System Light",
+        "color" : "#6E7073FF"
+      },
+      "backgroundSelected" : "#444759FF",
+      "text" : {
+        "size" : 22,
+        "colorSelected" : "#78D1E1FF",
+        "font" : "System Light",
+        "color" : "#E1E1E6FF"
+      },
+      "iconPaddingHorizontal" : 10,
+      "roundness" : 0,
+      "paddingVertical" : 8,
+      "iconSize" : 46
+    },
+    "search" : {
+      "backgroundSelected" : "#78D1E1FF",
+      "paddingHorizontal" : 8,
+      "spacing" : 10,
+      "text" : {
+        "size" : 36,
+        "colorSelected" : "#E1E1E6FF",
+        "font" : "System Light",
+        "color" : "#E1E1E6FF"
+      },
+      "background" : "#19162200",
+      "roundness" : 0,
+      "paddingVertical" : 2
+    },
+    "window" : {
+      "color" : "#191622F2",
+      "paddingHorizontal" : 10,
+      "width" : 620,
+      "borderPadding" : 0,
+      "borderColor" : "#FEFFFF00",
+      "blur" : 0,
+      "roundness" : 0,
+      "paddingVertical" : 10
+    },
+    "credit" : "Iolar Demartini Junior",
+    "separator" : {
+      "color" : "#44475A05",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#78D1E1FF",
+      "thickness" : 2
+    },
+    "name" : "Omni"
+  }
+}
