@@ -4,7 +4,7 @@ _You need the [Powerpack](https://www.alfredapp.com/powerpack) for custom themes
 
 #### Easy Install
 
-1. Download the latest version of [`Omni.alfredappearance`](https://github.com/demartini/alfred/releases/latest/download/Omni.alfredappearance).
+1. Download the latest version of [`Omni.alfredappearance`](https://github.com/getomni/alfred/releases/latest/download/Omni.alfredappearance).
 2. Double-click on `Omni.alfredappearance`.
 3. Click the `Import` button when prompted.
 
@@ -12,7 +12,7 @@ _You need the [Powerpack](https://www.alfredapp.com/powerpack) for custom themes
 
 1. Clone the repo:
 ```sh
-$ git clone https://github.com/demartini/alfred.git
+$ git clone https://github.com/getomni/alfred.git
 ```
 2. Navigate to the cloned directory and double-click on `Omni.alfredappearance`.
 3. Click the `Import` button when prompted.
